@@ -1,3 +1,3 @@
 # Multi-Editable Old Color Triggers
 
-This mod restors the ability to edit multiple old color triggers at once.
+This mod restores the ability to edit multiple old color triggers at once.
