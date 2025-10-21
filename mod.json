@@ -1,5 +1,5 @@
 {
-	"geode": "4.8.0",
+	"geode": "4.9.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
@@ -8,7 +8,7 @@
 	},
 	"id": "pololak.old-color-triggers-fix",
 	"name": "Multi-Editable Old Color Triggers",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Pololak",
 	"description": "Edit multiple old color triggers at once.",
 	"tags": ["editor", "bugfix"],
